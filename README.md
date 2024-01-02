@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ali Onur Geven
-- 👀 I’m interested in Fullstack Development for 7+ years
+- 👀 I’m interested in Fullstack Development
 - 🌱 I’m currently learning how to be a better software engineer
 - 📫 How to reach me ali.geven@tooltime.de
 
