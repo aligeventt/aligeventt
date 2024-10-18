@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning how to be a better software engineer
 - 📫 How to reach me ali.geven@tooltime.de
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-view.svg)
 [![trophy](https://github-profile-trophy.vercel.app/?username=aligeventt&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
